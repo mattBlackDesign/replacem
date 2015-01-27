@@ -6,8 +6,6 @@ echo "Enter string your want to search for: "
 read search
 echo "Enter string you want to replace it with: "
 read replace
-echo $search
-echo $replace
-echo $filetowork
+echo "Working in file $filetowork to replace $search with $replace "
 echo "Finding and replacing..."
 sed -i s,${search},${replace},g $filetowork
