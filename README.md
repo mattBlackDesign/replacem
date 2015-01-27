@@ -6,7 +6,11 @@ Replacem is a small Bash script for easily finding and replacing inside a file.
 INSTALLATION
 ============
 
-Place this script somewhere in your $PATH, on Mac: /usr/local/bin   on Linux:  add this line to your .bashrc file ( export PATH="$PATH:replacemdirectory" ). This will allow you to run "replacem" in your terminal. 
+Place this script somewhere in your $PATH
+Mac: /usr/local/bin
+Linux:  add this line to your .bashrc file ( export PATH="$PATH:replacemdirectory" ). 
+
+This will allow you to run "replacem" in your terminal. 
 
 USAGE
 =====
@@ -15,5 +19,5 @@ USAGE
 2. After running "replacem", it will ask you for the file name you want change.
 3. Then it will ask you for the string you want to replace. 
 4. Then what string you want to replace it with.
-5. Press Enter, and voila, find and replace.  
+5. Press Enter, and voila, your done. 
 
