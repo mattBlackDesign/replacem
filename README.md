@@ -22,5 +22,5 @@ USAGE
 3. It will ask you for the file name you want change.
 4. Then it will ask you for the string you want to replace. 
 5. Then what string you want to replace it with.
-6. Press Enter, and voila, your done. 
+6. Press Enter, and voila, you're done. 
 
