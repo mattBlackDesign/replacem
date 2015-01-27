@@ -18,8 +18,9 @@ USAGE
 =====
 
 1. First you will need to cd into the directory your file is in. 
-2. After running "replacem", it will ask you for the file name you want change.
-3. Then it will ask you for the string you want to replace. 
-4. Then what string you want to replace it with.
-5. Press Enter, and voila, your done. 
+2. Run the "replacem" command. 
+3. It will ask you for the file name you want change.
+4. Then it will ask you for the string you want to replace. 
+5. Then what string you want to replace it with.
+6. Press Enter, and voila, your done. 
 
