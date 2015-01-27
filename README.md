@@ -1,7 +1,7 @@
 Replacem
 ==========
 
-Replacem is a small Bash script for easily finding and replacing inside a file. 
+Replacem is a small Bash script for easily finding and replacing inside a file (when the file is too big for a common text editor).
 
 INSTALLATION
 ============
