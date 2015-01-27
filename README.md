@@ -8,9 +8,9 @@ INSTALLATION
 
 Place this script somewhere in your $PATH
 
-Mac: /usr/local/bin
+Mac: add file inside /usr/local/bin
 
-Linux:  add this line to your .bashrc file ( export PATH="$PATH:replacemdirectory" ). 
+Linux:  add file anywhere, and add this line to your .bashrc file ( export PATH="$PATH:replacemdirectory" ). 
 
 This will allow you to run "replacem" in your terminal. 
 
