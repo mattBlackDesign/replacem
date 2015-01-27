@@ -10,7 +10,7 @@ Place this script somewhere in your $PATH
 
 Mac: add file inside /usr/local/bin
 
-Linux:  add file anywhere, and add this line to your .bashrc file ( export PATH="$PATH:replacemdirectory" ). 
+Linux:  add file anywhere, and add this line to your .bashrc file ( export PATH="$PATH:$HOME/pathtodirectory" ). 
 
 This will allow you to run "replacem" in your terminal. 
 
